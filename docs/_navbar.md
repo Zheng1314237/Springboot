@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 * Spring
 
 	* [SMM](Spring/SSM/start)
